@@ -1,3 +1,3 @@
 # C++ Tutorials
 
-List of C++ implementations I used to tutor computer science students
+List of C++ programs implementing data structures and sorting algorithms I created as tutorial demonstrations
